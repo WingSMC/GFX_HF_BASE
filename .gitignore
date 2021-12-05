@@ -1,0 +1,10 @@
+.history
+.vs
+
+Debug
+Release
+
+*.exe
+*.pdb
+*.ipdb
+*.iobj
