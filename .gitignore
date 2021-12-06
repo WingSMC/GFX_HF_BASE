@@ -2,7 +2,7 @@
 .vs
 
 Debug
-Release/**/
+Programs/**/Release
 
 *.exe
 *.pdb
